@@ -1,6 +1,6 @@
 // Функция для подсчета разницы
 function subtract(a, b) {
-    return a + b;
+    return a - b;
 }
 
 function calculate() {
